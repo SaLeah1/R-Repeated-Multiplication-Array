@@ -1,6 +1,3 @@
-rMultiply(10,2.63,3)
-
-
 rMultiply <- function(base, multiplier, runs) {
   var.num <- base
   returner <- c()
